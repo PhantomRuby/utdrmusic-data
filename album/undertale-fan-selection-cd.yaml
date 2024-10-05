@@ -150,15 +150,8 @@ Section: Live Arrangements
 Track: Waterfall ##to be made re-release of MUSIC Engine arrangement album vol.1
 Directory: waterfall-music-engine-fan-selection
 Always Reference By Directory: True
-Artists:
-- MUSIC Engine
-Contributors:
-- Kota Kawai (Arrangement)
-- Yasutaka Nakamura (Orchestration)
+Originally Released As: track:waterfall-music-engine
 Duration: '4:17'
-Referenced Tracks:
-- track:waterfall
-- Quiet Water
 #URLs:
 #- https://tobyfox.bandcamp.com/track/once-upon-a-time-2
 #- https://www.youtube.com/watch?v=3BR7-AzE2dQ
@@ -166,19 +159,13 @@ Referenced Tracks:
 Commentary: |-
     <i>UNDERTALE FAN SELECTION CD:</i> (Booklet)
 
-    (From "MUSIC Engine UNDERTALE ARRANGE Vol.1: Undyne")
+    (From "[MUSIC Engine UNDERTALE ARRANGE Vol.1: Undyne](https://utdr.hsmusic.wiki/album/music-engine-undertale-cd-vol-1-undyne)")
 ---
 Track: NGAHHH!! ##to be made re-release of MUSIC Engine arrangement album vol.1
 Directory: ngahhh-music-engine-fan-selection
 Always Reference By Directory: True
-Artists:
-- MUSIC Engine
-Contributors:
-- Kota Kawai (Arrangement)
-- Yasutaka Nakamura (Orchestration)
+Originally Released As: track:ngahhh-music-engine
 Duration: '2:01'
-Referenced Tracks:
-- track:ngahhh
 #URLs:
 #- https://tobyfox.bandcamp.com/track/once-upon-a-time-2
 #- https://www.youtube.com/watch?v=3BR7-AzE2dQ
@@ -186,7 +173,7 @@ Referenced Tracks:
 Commentary: |-
     <i>UNDERTALE FAN SELECTION CD:</i> (Booklet)
 
-    (From "MUSIC Engine UNDERTALE ARRANGE Vol.1: Undyne")
+    (From "[MUSIC Engine UNDERTALE ARRANGE Vol.1: Undyne](https://utdr.hsmusic.wiki/album/music-engine-undertale-cd-vol-1-undyne)")
 ---
 Track: Undertale ##to be made re-release of MUSIC Engine arrangement album vol.1
 Directory: Undertale-music-engine-fan-selection
