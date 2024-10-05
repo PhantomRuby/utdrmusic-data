@@ -88,16 +88,19 @@ Commentary: |-
 ---
 Track: MEGALOVANIA
 Directory: megalovania-fan-encore-cd
+Always Reference By Directory: True
 Originally Released As: track:megalovania-fan-selection ##purposefully referring to the fan selection. it's a re-release of the double loop version from that CD.
 Duration: '5:14'
 ---
 Track: Hopes and Dreams
 Directory: hopes-and-dreams-fan-encore-cd
+Always Reference By Directory: True
 Originally Released As: track:hopes-and-dreams-fan-selection ##purposefully referring to the fan selection. it's a re-release of the double loop version from that CD.
 Duration: '6:03'
 ---
 Track: Battle Against a True Hero
 Directory: battle-against-a-true-hero-fan-encore-cd
+Always Reference By Directory: True
 Originally Released As: track:battle-against-a-true-hero-fan-selection ##purposefully referring to the fan selection. it's a re-release of the double loop version from that CD.
 Duration: '5:12'
 ---
@@ -108,68 +111,42 @@ Duration: '1:34'
 ---
 Section: MUSIC Engine Orchestra
 ---
-Track: Ruins ##to be made re-release of MUSIC Engine arrangement albums
+Track: Ruins
 Directory: ruins-music-engine-fan-encore-cd
 Always Reference By Directory: True
-Artists:
-- MUSIC Engine
-Contributors:
-- Kota Kawai (Arrangement)
-- Yasutaka Nakamura (Orchestration)
+Originally Released As: track:ruins-music-engine
 Duration: '1:53'
-Referenced Tracks:
-- Ruins
 Commentary: |-
     <i>UNDERTALE + deltarune FAN ENCORE CD:</i> (Booklet)
 
-    ("MUSIC Engine UNDERTALE CD Vol.2: Toriel)
+    (from "[[album:music-engine-undertale-cd-vol-2]]")
 ---
-Track: Anticipation / Enemy Approaching ##to be made re-release of MUSIC Engine arrangement albums
+Track: Anticipation / Enemy Approaching
 Directory: anticipation-enemy-approaching-music-engine-fan-encore-cd
 Always Reference By Directory: True
-Artists:
-- MUSIC Engine
-Contributors:
-- Kota Kawai (Arrangement)
-- Yasutaka Nakamura (Orchestration)
+Originally Released As: track:anticipation-enemy-approaching-music-engine
 Duration: '2:23'
-Referenced Tracks:
-- Anticipation
-- Enemy Approaching
 Commentary: |-
     <i>UNDERTALE + deltarune FAN ENCORE CD:</i> (Booklet)
 
-    ("MUSIC Engine UNDERTALE CD Vol.2: Toriel)
+    (from "[[album:music-engine-undertale-cd-vol-2]]")
 ---
 Track: CORE / Death by Glamour ##to be made re-release of MUSIC Engine arrangement albums
 Directory: core-death-by-glamour-music-engine-fan-encore-cd
 Always Reference By Directory: True
-Artists:
-- MUSIC Engine
-Contributors:
-- Kota Kawai (Arrangement)
-- Yasutaka Nakamura (Orchestration)
+Originally Released As: track:core-death-by-glamour-music-engine
 Duration: '3:58'
-Referenced Tracks:
-- CORE
-- Death by Glamour
 Commentary: |-
     <i>UNDERTALE + deltarune FAN ENCORE CD:</i> (Booklet)
 
-    ("MUSIC Engine UNDERTALE CD Vol.3: Alphys & Mettaton)
+    (from "[[album:music-engine-undertale-cd-vol-3]]")
 ---
 Track: For the Fans ##to be made re-release of MUSIC Engine arrangement albums
 Directory: for-the-fans-music-engine-fan-encore-cd
 Always Reference By Directory: True
-Artists:
-- MUSIC Engine
-Contributors:
-- Kota Kawai (Arrangement)
-- Yasutaka Nakamura (Orchestration)
+Originally Released As: track:for-the-fans-music-engine
 Duration: '1:49'
-Referenced Tracks:
-- For the Fans
 Commentary: |-
     <i>UNDERTALE + deltarune FAN ENCORE CD:</i> (Booklet)
 
-    ("MUSIC Engine UNDERTALE CD Vol.3: Alphys & Mettaton)
+    (from "[[album:music-engine-undertale-cd-vol-3]]")

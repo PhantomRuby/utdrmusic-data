@@ -1,12 +1,12 @@
-Album: Music Engine UNDERTALE CD Vol.1 Undyne
+Album: 'MUSIC Engine UNDERTALE CD Vol.2: Toriel'
 Artists:
 - MUSIC Engine
-Directory: music-engine-undertale-cd-vol-1-undyne
-Date: June 16, 2018
+Directory: music-engine-undertale-cd-vol-2
+Date: December 30, 2018
 #Date Added: February 5, 2024
 #URLs:
 #- 
-Color: '#263dd3' #todo: brighter color
+Color: '#ff8218'
 Cover Artists:
 - Yoshiaki Shirakura
 Groups:
@@ -27,30 +27,45 @@ Groups:
 #- Title: Bandcamp Banner
 #  Files:
 #  - banner.png
+Commentary: |-
+    <i>MUSIC Engine:</i> ([TuneCore Japan](https://linkco.re/VXV4fXFu?lang=ens), excerpt)
+
+    The second orchestral arrangement album by [[artist:music-engine]]. All live recorded and featuring on "Toriel" from "UNDERTALE."
 ---
 Track: Start Menu
-Directory: start-menu-music-engine-vol-1
+Directory: start-menu-music-engine-vol-2
 Always Reference By Directory: True
 Duration: '0:35'
 Referenced Tracks:
 - Start Menu #Replace with Menu from Demo OST once added to wiki
 ---
-Track: Waterfall
-Directory: waterfall-music-engine
+Track: Ruins
+Directory: ruins-music-engine
 Always Reference By Directory: True
 Artists:
 - MUSIC Engine
 Contributors:
 - Kota Kawai (Arrangement)
 - Yasutaka Nakamura (Orchestration)
-Duration: '4:14'
+Duration: '1:34'
 Referenced Tracks:
-- Waterfall
-- Quiet Water
+- Ruins
 ---
-Track: Memory
-Directory: memory-music-engine
+Track: Anticipation / Enemy Approaching
+Directory: anticipation-enemy-approaching-music-engine
 Always Reference By Directory: True
+Artists:
+- MUSIC Engine
+Contributors:
+- Kota Kawai (Arrangement)
+- Yasutaka Nakamura (Orchestration)
+Duration: '2:21'
+Referenced Tracks:
+- Anticipation
+- Enemy Approaching
+---
+Track: Home (Strings Ver.)
+Directory: home-strings-ver-music-engine
 Artists:
 - MUSIC Engine
 Contributors:
@@ -58,46 +73,17 @@ Contributors:
 - Yasutaka Nakamura (Orchestration)
 Duration: '2:52'
 Referenced Tracks:
-- Memory
-- Undertale ##pizzicato strings
+- Home (Music Box)
 ---
-Track: NGAHHH!!
-Directory: ngahhh-music-engine
-Always Reference By Directory: True
+Track: Toriel Medley (MUSIC Engine Ver.)
 Artists:
 - MUSIC Engine
 Contributors:
 - Kota Kawai (Arrangement)
 - Yasutaka Nakamura (Orchestration)
-Duration: '1:58'
+Duration: '8:31'
 Referenced Tracks:
-- NGAHHH!!
----
-Track: Spear of Justice
-Directory: spear-of-justice-music-engine
-Always Reference By Directory: True
-Artists:
-- MUSIC Engine
-Contributors:
-- Kota Kawai (Arrangement)
-- Yasutaka Nakamura (Orchestration)
-Duration: '2:20'
-Referenced Tracks:
-- Spear of Justice
----
-Track: Undyne Medley (MUSIC Engine Ver.)
-Artists:
-- MUSIC Engine
-Contributors:
-- Kota Kawai (Arrangement)
-- Yasutaka Nakamura (Orchestration)
-Duration: '10:14'
-Referenced Tracks: ##you could argue they should reference the MUSIC Engine arrangements where applicable instead of the originals. they are the same arrangements, however for consistency I've set them to reference the originals.
-- Waterfall
-- Undyne
-- Run!
-- Quiet Water
-- Memory
-- NGAHHH!!
-- Spear of Justice
-- She's Playing Piano
+- Home
+- Determination
+- Heartache
+- Fallen Down (Reprise)
