@@ -18,6 +18,8 @@ Artist: Arc-hive Philharmonic Winds
 ---
 Artist: ARM
 ---
+Artist: Austin Perrilloux
+---
 Artist: blunttheking
 URLs:
 - https://www.tumblr.com/blunttheking
@@ -72,7 +74,7 @@ URLs:
 ---
 Artist: Eruption
 ---
-Artist: FamilyJules7x
+Artist: FamilyJules
 ---
 Artist: Figburn
 URLs:
@@ -103,6 +105,16 @@ Artist: Hitomi Sato
 ---
 Artist: Homestuck
 ---
+Artist: Involved in the Troubles
+Context Notes: >-
+    Involved in the Troubles is:<br>
+    [[artist:josiah-mcdaniel]] - Bass<br>
+    [[artist:austin-perrilloux]] - Drums<br>
+    [[artist:richaadeb]] - Guitars & Pads<br>
+    [[artist:amie-waters]] - Bells, Keys, and Synths
+---
+Artist: Jackson Parodi
+---
 Artist: James Lord Pierpont
 ---
 Artist: Jebb
@@ -113,6 +125,8 @@ URLs:
 - https://soundcloud.com/jebbjabroni
 - https://www.youtube.com/@jebbjabroni
 - https://twitter.com/JeberosE
+---
+Artist: Josiah McDaniel
 ---
 Artist: Joshua Morse
 URLs:
@@ -148,6 +162,8 @@ URLs:
 Artist: Kota Kawai
 ---
 Artist: Kristofer Maddigan
+---
+Artist: Kyle Von Lanken
 ---
 Artist: Laura Shigihara
 URLs:
@@ -270,9 +286,13 @@ Artist: Rintaro Soma
 URLs:
 - https://twitter.com/rintarosoma/
 ---
+Artist: RocktheJake
+---
 Artist: rose-ebottles
 Dead URLs:
 - https://rose-ebottles.tumblr.com/
+---
+Artist: Ryan Lafford
 ---
 Artist: Ryoue Takagi
 ---
@@ -311,10 +331,14 @@ Aliases:
 URLs:
 - https://sollay-b.tumblr.com/
 ---
+Artist: Soundole VGM
+---
 Artist: Stephanie MacIntire
 URLs:
 - https://stephaniemacintire.bandcamp.com
 - https://www.youtube.com/@stephaniemacintire8421
+---
+Artist: Steven Morris
 ---
 Artist: Sukezo Ouyama
 ---
@@ -329,6 +353,8 @@ URLs:
 Artist: TeraCMusic
 ---
 Artist: The Winstons
+---
+Artist: The8BitDrummer
 ---
 Artist: ThunderScott
 ---
@@ -390,3 +416,5 @@ Artist: UNDERTALE FAN SELECTION CD #bottom because non-artist
 Artist: Nintendo Switch DOWNLOAD SOFT COMPILATION ALBUM #bottom because non-artist
 ---
 Artist: Nintendo Switch COMPILATION ALBUM 2024 Side A #bottom because non-artist
+---
+Artist: 'Determination: The Purple Side' #bottom because non-artist
