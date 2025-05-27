@@ -42,7 +42,7 @@ Section: Top 10 songs chosen by fans (double loop)
 ---
 Track: Song That Might Play When You Fight Sans
 Directory: song-that-might-play-when-you-fight-sans-fan-selection
-Originally Released As: track:song-that-might-play-when-you-fight-sans
+Main Release: track:song-that-might-play-when-you-fight-sans
 Duration: '2:02'
 #URLs:
 #- 
@@ -53,7 +53,7 @@ Commentary: |-
 ---
 Track: Bonetrousle
 Directory: bonetrousle-fan-selection
-Originally Released As: track:bonetrousle
+Main Release: track:bonetrousle
 Duration: '1:58'
 #URLs:
 #- 
@@ -64,7 +64,7 @@ Commentary: |-
 ---
 Track: ASGORE
 Directory: asgore-fan-selection
-Originally Released As: track:asgore
+Main Release: track:asgore
 Duration: '5:14'
 #URLs:
 #- 
@@ -75,14 +75,14 @@ Commentary: |-
 ---
 Track: Undertale
 Directory: undertale-fan-selection
-Originally Released As: track:undertale
+Main Release: track:undertale
 Duration: '6:25'
 #URLs:
 #- 
 ---
 Track: Spider Dance
 Directory: spider-dance-fan-selection
-Originally Released As: track:spider-dance
+Main Release: track:spider-dance
 Duration: '3:30'
 #URLs:
 #- 
@@ -93,7 +93,7 @@ Commentary: |-
 ---
 Track: Hopes and Dreams
 Directory: hopes-and-dreams-fan-selection
-Originally Released As: track:hopes-and-dreams
+Main Release: track:hopes-and-dreams
 Duration: '6:04'
 #URLs:
 #- 
@@ -104,7 +104,7 @@ Commentary: |-
 ---
 Track: Death by Glamour
 Directory: death-by-glamour-fan-selection
-Originally Released As: track:death-by-glamour
+Main Release: track:death-by-glamour
 Duration: '4:31'
 #URLs:
 #- 
@@ -115,7 +115,7 @@ Commentary: |-
 ---
 Track: SAVE the World
 Directory: save-the-world-fan-selection
-Originally Released As: track:save-the-world
+Main Release: track:save-the-world
 Duration: '3:43'
 #URLs:
 #- 
@@ -126,7 +126,7 @@ Commentary: |-
 ---
 Track: Battle Against a True Hero
 Directory: battle-against-a-true-hero-fan-selection
-Originally Released As: track:battle-against-a-true-hero
+Main Release: track:battle-against-a-true-hero
 Duration: '5:13'
 #URLs:
 #- 
@@ -137,7 +137,7 @@ Commentary: |-
 ---
 Track: MEGALOVANIA
 Directory: megalovania-fan-selection
-Originally Released As: track:megalovania
+Main Release: track:megalovania
 Duration: '5:15'
 #URLs:
 #- 
@@ -151,7 +151,7 @@ Section: Live Arrangements
 Track: Waterfall ##to be made re-release of MUSIC Engine arrangement album vol.1
 Directory: waterfall-music-engine-fan-selection
 Always Reference By Directory: True
-Originally Released As: track:waterfall-music-engine
+Main Release: track:waterfall-music-engine
 Duration: '4:17'
 #URLs:
 #- https://tobyfox.bandcamp.com/track/once-upon-a-time-2
@@ -165,7 +165,7 @@ Commentary: |-
 Track: NGAHHH!! ##to be made re-release of MUSIC Engine arrangement album vol.1
 Directory: ngahhh-music-engine-fan-selection
 Always Reference By Directory: True
-Originally Released As: track:ngahhh-music-engine
+Main Release: track:ngahhh-music-engine
 Duration: '2:01'
 #URLs:
 #- https://tobyfox.bandcamp.com/track/once-upon-a-time-2
